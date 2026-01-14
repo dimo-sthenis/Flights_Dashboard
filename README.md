@@ -129,7 +129,4 @@ Cancellation reason mapping (BTS):
 - `C` = NAS (National Airspace System)
 - `D` = Security
 
----
-
-## Repository Structure (suggested)
 
